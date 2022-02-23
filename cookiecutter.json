@@ -1,12 +1,10 @@
 {
     "repo_name": "latex-template",
-    "first_name":"Selim",
-    "last_name":"Belhaouane",
-    "school":"McGill University",
-    "student_id":"260xxxxxx",
+    "first_name":"Yu",
+    "last_name":"Zheng",
+    "school":"Swufe",
+    "email":"yu.zheng@inboc.net",
     "title": "Title",
-    "course_name": "Course Name",
-    "course_code": "Course Code",
     "bibtex":"yes",
     "nomenclature":"yes"
 }
